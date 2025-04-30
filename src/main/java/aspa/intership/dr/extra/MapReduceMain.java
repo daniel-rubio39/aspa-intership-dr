@@ -20,8 +20,6 @@ public class MapReduceMain {
     }
 
     public static void countWords(List<String> phrases) {
-        phrases
-                .stream()
-                .
+
     }
 }
