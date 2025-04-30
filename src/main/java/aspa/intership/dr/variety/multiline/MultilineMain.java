@@ -1,4 +1,4 @@
-package aspa.intership.dr.multiline;
+package aspa.intership.dr.variety.multiline;
 
 public class MultilineMain {
     public static void main(String[] args) {

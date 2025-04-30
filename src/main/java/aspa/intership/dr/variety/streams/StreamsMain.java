@@ -1,4 +1,4 @@
-package aspa.intership.dr.streams;
+package aspa.intership.dr.variety.streams;
 
 import java.util.List;
 

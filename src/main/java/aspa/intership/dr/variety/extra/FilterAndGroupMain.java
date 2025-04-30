@@ -1,4 +1,4 @@
-package aspa.intership.dr.extra;
+package aspa.intership.dr.variety.extra;
 
 import java.util.List;
 import java.util.Map;
@@ -8,9 +8,10 @@ public class FilterAndGroupMain {
     public static void main(String[] args) {
         groupByAge();
     }
-    
+
     public static void groupByAge() {
-        record Person(String name, int age) {}
+        record Person(String name, int age) {
+        }
         List<Person> people = List.of(
                 new Person("Ana", 23),
                 new Person("Luis", 31),

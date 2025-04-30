@@ -1,4 +1,4 @@
-package aspa.intership.dr.pattern;
+package aspa.intership.dr.variety.pattern;
 
 public class PatternMatchingMain {
     public static void main(String[] args) {

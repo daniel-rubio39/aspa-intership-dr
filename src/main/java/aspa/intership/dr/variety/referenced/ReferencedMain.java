@@ -1,4 +1,4 @@
-package aspa.intership.dr.referenced;
+package aspa.intership.dr.variety.referenced;
 
 import java.util.ArrayList;
 import java.util.List;

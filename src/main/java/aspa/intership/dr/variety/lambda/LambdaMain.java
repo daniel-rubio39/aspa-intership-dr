@@ -1,4 +1,4 @@
-package aspa.intership.dr.lambda;
+package aspa.intership.dr.variety.lambda;
 
 import java.util.ArrayList;
 import java.util.Comparator;
